@@ -1,0 +1,2 @@
+# Latihan-Ionic
+buat latihan
